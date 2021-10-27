@@ -1,0 +1,12 @@
+body{
+    background: rgb(112, 98, 106);
+    background: linear-gradient(0deg, rgb(82, 59, 71) 18%, rgb(150, 115, 60) 43%, rgba(98, 75, 109, 0.72) 82%, rgba(119,83,42,1) 100%);
+}
+ p{
+color: white;
+font-size: 10px;
+
+ }
+ h1{
+color: aliceblue;
+ }
