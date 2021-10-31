@@ -15,4 +15,3 @@ WTForms==2.3.3
 
 
 
-# https://git.heroku.com/watchlistalbunus.git
