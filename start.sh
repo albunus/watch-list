@@ -1,4 +1,7 @@
 export MOVIE_API_KEY=94fbf867a24114b6e7311d0d941d5907
 export SECRET_KEY=5881fa19fcb15962806b7a3ae72e8576
 
+export MAIL_USERNAME=alybtush3@gmail.com
+export MAIL_PASSWORD=25845600Al
+
 python3.8 manage.py server
